@@ -1,22 +1,15 @@
-# Sprint 1 - Foundation
+# Sprint 1
+
+## Foundation
 
 - [ ] Navigation Sidebar
-- [ ] Dashboard
-- [ ] Knowledge Hub
-- [ ] Clickable KAs
+- [ ] Dashboard View
+- [ ] Knowledge Hub View
+- [ ] Clickable Knowledge Articles
 - [ ] Clickable Tools
 - [ ] Progress Tracker
 
-# Sprint 2 - Workflow Engine
+## Status
 
-- [ ] Shared Verification
-- [ ] Cancel Workflow
-- [ ] Completion Screen
-
-# Sprint 3 - Workflow Coverage
-
-- [ ] Account Access Recovery
-- [ ] Missing Direct Deposit
-- [ ] P2P Misdirected Payment
-- [ ] Unauthorized Cash Card
-- [ ] Account Takeover
+Requirements Locked ✅
+Architecture Locked ✅
